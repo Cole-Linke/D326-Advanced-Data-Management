@@ -7,5 +7,5 @@ relational data modeling as well as designing data marts, lakes, and warehouses.
 logic at the database layer to employ more stability and higher data-processing speeds. Learners will gain the ability to automate common tasks to
 summarize and integrate data as they prepare it for analysis.
 
-# Task
+## Task
 Analyzed a relational database to identify and solve a business question. Developed SQL queries, functions, triggers, and stored procedures to generate and automate reporting.
